@@ -75,6 +75,4 @@ All scripts follow the same high-level flow:
 5. Compute accuracy  
 6. Save a results file (CSV or similar)
 
-### Example: Run CoT on ARC (Python script)
-
 ```bash
