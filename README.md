@@ -77,5 +77,3 @@ All scripts follow the same high-level flow:
 ### Example: Run CoT on ARC (Python script)
 
 ```bash
-python arc_cot.py
-
