@@ -41,6 +41,7 @@ Examples (names may be `.py` or `.ipynb`):
   - `arc_cot.py`
 - **HellaSwag**
   - `hellaswag_code_instruction.ipynb`
+  - `hellaswag_cot.py`
 - **TruthfulQA**
   - `truthfulqa_code_instruction.py`
   - `truthfulqa_code_cot.ipynb`
