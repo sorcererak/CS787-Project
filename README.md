@@ -56,8 +56,8 @@ Examples (names may be `.py` or `.ipynb`):
 - **MUSR**
   - `musr_code_instruction.ipynb`
   - `musr_cot.py`
-- **AVERIE / other datasets**
-  - `averice_code_cot&instruct.ipynb` (combined notebook)
+- **AVERITEC / other datasets**
+  - `averitec_code_cot&instruct.ipynb` (combined notebook)
 
 > In general, files containing **`instruction`** run the *instruction-style*
 > prompts, and files containing **`cot`** run the *Chain-of-Thought* prompts.
